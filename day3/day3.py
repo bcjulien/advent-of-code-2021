@@ -1,6 +1,3 @@
-from os import name
-
-
 def main():
     file = open("input")
     input_file = file.read().splitlines()
